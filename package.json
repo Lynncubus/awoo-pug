@@ -1,6 +1,6 @@
 {
   "name": "awoo-pug",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A pug parsing plugin for awoo",
   "main": "index.js",
   "scripts": {
