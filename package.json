@@ -1,0 +1,26 @@
+{
+  "name": "awoo-pug",
+  "version": "0.0.1",
+  "description": "A pug parsing plugin for awoo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luxizzle/awoo-pug.git"
+  },
+  "keywords": [
+    "awoo",
+    "pug"
+  ],
+  "author": "Jelmer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Luxizzle/awoo-pug/issues"
+  },
+  "homepage": "https://github.com/Luxizzle/awoo-pug#readme",
+  "dependencies": {
+    "pug": "^2.0.0-rc.4"
+  }
+}
